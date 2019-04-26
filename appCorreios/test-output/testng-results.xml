@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103767" started-at="2019-04-26T17:00:13Z" finished-at="2019-04-26T17:01:57Z">
+    <groups>
+      <group name="NovoCalculo">
+        <method signature="TestAppCorreiosGherkin.CT01_EfetuarNovoCalculo()[pri:1, instance:com.br.inmetrics.tests.android.TestAppCorreiosGherkin@452ba1db]" name="CT01_EfetuarNovoCalculo" class="com.br.inmetrics.tests.android.TestAppCorreiosGherkin"/>
+        <method signature="TestAppCorreiosGherkin.CT02_AbrirCalculoSalvo()[pri:1, instance:com.br.inmetrics.tests.android.TestAppCorreiosGherkin@452ba1db]" name="CT02_AbrirCalculoSalvo" class="com.br.inmetrics.tests.android.TestAppCorreiosGherkin"/>
+      </group> <!-- NovoCalculo -->
+    </groups>
+    <test name="Default test" duration-ms="103767" started-at="2019-04-26T17:00:13Z" finished-at="2019-04-26T17:01:57Z">
+      <class name="com.br.inmetrics.tests.android.TestAppCorreiosGherkin">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.br.inmetrics.tests.android.TestAppCorreiosGherkin@452ba1db]" name="setup" is-config="true" duration-ms="26416" started-at="2019-04-26T17:00:13Z" finished-at="2019-04-26T17:00:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.br.inmetrics.tests.android.TestAppCorreiosGherkin.CT01_EfetuarNovoCalculo()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@2570b316]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CT01_EfetuarNovoCalculo()[pri:1, instance:com.br.inmetrics.tests.android.TestAppCorreiosGherkin@452ba1db]" name="CT01_EfetuarNovoCalculo" duration-ms="31544" started-at="2019-04-26T17:00:40Z" finished-at="2019-04-26T17:01:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT01_EfetuarNovoCalculo -->
+        <test-method status="PASS" signature="teardown(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.br.inmetrics.tests.android.TestAppCorreiosGherkin@452ba1db]" name="teardown" is-config="true" duration-ms="2343" started-at="2019-04-26T17:01:12Z" finished-at="2019-04-26T17:01:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.br.inmetrics.tests.android.TestAppCorreiosGherkin.CT01_EfetuarNovoCalculo()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@2570b316]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.br.inmetrics.tests.android.TestAppCorreiosGherkin@452ba1db]" name="setup" is-config="true" duration-ms="19075" started-at="2019-04-26T17:01:14Z" finished-at="2019-04-26T17:01:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.br.inmetrics.tests.android.TestAppCorreiosGherkin.CT02_AbrirCalculoSalvo()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@2570b316]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CT02_AbrirCalculoSalvo()[pri:1, instance:com.br.inmetrics.tests.android.TestAppCorreiosGherkin@452ba1db]" name="CT02_AbrirCalculoSalvo" duration-ms="22548" started-at="2019-04-26T17:01:33Z" finished-at="2019-04-26T17:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT02_AbrirCalculoSalvo -->
+        <test-method status="PASS" signature="teardown(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.br.inmetrics.tests.android.TestAppCorreiosGherkin@452ba1db]" name="teardown" is-config="true" duration-ms="1087" started-at="2019-04-26T17:01:56Z" finished-at="2019-04-26T17:01:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.br.inmetrics.tests.android.TestAppCorreiosGherkin.CT02_AbrirCalculoSalvo()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@2570b316]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.br.inmetrics.tests.android.TestAppCorreiosGherkin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!-- 
+<suite name = "Login">
+
+   <test name = "CT001 - Validar Login na Aplicação">
+      <classes>
+         <class name = "com.br.inmetrics.tests.android.TestLoginGherkin" >
+         	<methods>
+        			<include name="CT001_ValidarLoginComClienteCorrentista" />
+        	 	</methods>
+        	 </class>
+      </classes>
+   </test>
+   <listeners>
+        <listener class-name="com.br.inmetrics.frm.testng.CustomListener" />
+   </listeners>   
+</suite>
